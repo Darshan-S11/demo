@@ -1,2 +1,3 @@
 # demo
-tis is my first repo
+this is my first repo
+Author - Darshan Sakre
